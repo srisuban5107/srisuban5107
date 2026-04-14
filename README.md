@@ -4,52 +4,88 @@ Computer Science Student
 <img align="right" width="370" height="290" src="https://github.com/srisuban5107/profile-assets/blob/main/Gif/pengu.gif">
 - Computer Science student focused on developing strong fundamentals and building real-world skills
 - 🔭 Currently learning Networking, Python , MySql and Cybersecurity
-- Social Presence
-<p align="left">
-  <a href="https://instagram.com/srisuban5107">
-    <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" height="30"/> Instagram  (Personal)
-  </a>
-  <br>
-  <a href="https://instagram.com/srisuban_gaming">
-    <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" height="30"/> Instagram  (Studio and YouTube)
-  </a>
-  <br>
-  <a href="https://youtube.com/@srisuban07">
-    <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/youtube-48.png" height="30"/> YouTube 
-  </a>
-  <br>
-  <a href="https://discord.com/invite/Zdee6gVnev">
-    <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/discord-48.png" height="30"/> Discord Server 
-  </a>
-  <br>
-  <a href="https://twitch.tv/srisuban_gaming">
-    <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/twitch-48.png" height="30"/> Twitch
-  </a>
-  <br>
-  <a href="https://srisubangames.itch.io">
-    <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/itchio-48.png" height="30"/> Itch.io
-  </a>
-</p>
 
-### I code in
-<p align="left">
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="30"/> C++
-  <br>
-  <img src="https://img.icons8.com/color/48/python.png" height="30"/> Python
-  <br>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" height="30"/> MySQL
-</p>
+## 🌐 Social Presence
 
-## IDE and Tools I Use
-<p align="left">
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/vs-code-48.png" height="30"/> VS Code
-  <br>
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/visual-studio-48.png" height="30"/> Visual Studio
-  <br>
-  <img src="https://img.icons8.com/color/48/git.png" height="30"/> Git
-  <br>
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/VirtualBox-48.png" height="30"/> Oracle VirtualBox
-</p>
+<table>
 
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="22"></td>
+<td>Instagram (Personal)</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="22"></td>
+<td>Instagram (Studio & YouTube)</td>
+</tr>
+
+<tr>
+<td><img src="https://img.icons8.com/color/48/youtube-play.png" width="22"></td>
+<td>YouTube</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/discord-48.png" width="22"></td>
+<td>Discord Server</td>
+</tr>
+
+<tr>
+<td><img src="https://img.icons8.com/color/48/twitch.png" width="22"></td>
+<td>Twitch</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/itchio-48.png" width="22"></td>
+<td>Itch.io</td>
+</tr>
+
+</table>
+
+## 💻 I Code In
+
+<table>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/c%2B%2B-48.png" width="22"></td>
+<td>C++</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/python-48.png" width="22"></td>
+<td>Python</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/mysql-48.png" width="22"></td>
+<td>MySQL</td>
+</tr>
+
+</table>
+
+## 🧰 IDE & Tools I Use
+
+<table>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/vs-code-48.png" width="22"></td>
+<td>VS Code</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/visual-studio-48.png" width="22"></td>
+<td>Visual Studio</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/git-48.png" width="22"></td>
+<td>Git</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/VirtualBox-48.png" width="22"></td>
+<td>Oracle VirtualBox</td>
+</tr>
+
+</table>
 
 
