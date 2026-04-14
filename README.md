@@ -10,56 +10,44 @@ Computer Science Student
 <table>
 
 <tr>
-<td>
-<a href="https://instagram.com/srisuban5107">
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="22"/>
-  Instagram (Personal)
-</a>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="20" style="vertical-align:middle"></td>
+<td style="vertical-align:middle">
+<a href="https://instagram.com/srisuban5107">Instagram (Personal)</a>
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://instagram.com/srisuban_gaming">
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="22"/>
-  Instagram (Studio & YouTube)
-</a>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="20" style="vertical-align:middle"></td>
+<td style="vertical-align:middle">
+<a href="https://instagram.com/srisuban_gaming">Instagram (Studio & YouTube)</a>
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://youtube.com/@srisuban07">
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/youtube-48.png" width="22"/>
-  YouTube
-</a>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/youtube-48.png" width="20" style="vertical-align:middle"></td>
+<td style="vertical-align:middle">
+<a href="https://youtube.com/@srisuban07">YouTube</a>
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://discord.com/invite/Zdee6gVnev">
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/discord-48.png" width="22"/>
-  Discord Server
-</a>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/discord-48.png" width="20" style="vertical-align:middle"></td>
+<td style="vertical-align:middle">
+<a href="https://discord.com/invite/Zdee6gVnev">Discord Server</a>
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://twitch.tv/srisuban_gaming">
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/twitch-48.png" width="22"/>
-  Twitch
-</a>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/twitch-48.png" width="20" style="vertical-align:middle"></td>
+<td style="vertical-align:middle">
+<a href="https://twitch.tv/srisuban_gaming">Twitch</a>
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://srisubangames.itch.io">
-  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/itchio-48.png" width="22"/>
-  Itch.io
-</a>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/itchio-48.png" width="20" style="vertical-align:middle"></td>
+<td style="vertical-align:middle">
+<a href="https://srisubangames.itch.io">Itch.io</a>
 </td>
 </tr>
 
