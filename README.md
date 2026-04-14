@@ -5,7 +5,7 @@ Computer Science Student
 - Computer Science student focused on developing strong fundamentals and building real-world skills
 - 🔭 Currently learning Networking, Python , MySql and Cybersecurity
 
-## 🌐 Social Presence
+### 🌐 Social Presence
 
 <table>
 
