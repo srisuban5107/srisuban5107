@@ -10,33 +10,57 @@ Computer Science Student
 <table>
 
 <tr>
-<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="22"></td>
-<td>Instagram (Personal)</td>
+<td>
+<a href="https://instagram.com/srisuban5107">
+  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="22"/>
+  Instagram (Personal)
+</a>
+</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="22"></td>
-<td>Instagram (Studio & YouTube)</td>
+<td>
+<a href="https://instagram.com/srisuban_gaming">
+  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/instagram-48.png" width="22"/>
+  Instagram (Studio & YouTube)
+</a>
+</td>
 </tr>
 
 <tr>
-<td><img src="https://img.icons8.com/color/48/youtube-play.png" width="22"></td>
-<td>YouTube</td>
+<td>
+<a href="https://youtube.com/@srisuban07">
+  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/youtube-48.png" width="22"/>
+  YouTube
+</a>
+</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/discord-48.png" width="22"></td>
-<td>Discord Server</td>
+<td>
+<a href="https://discord.com/invite/Zdee6gVnev">
+  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/discord-48.png" width="22"/>
+  Discord Server
+</a>
+</td>
 </tr>
 
 <tr>
-<td><img src="https://img.icons8.com/color/48/twitch.png" width="22"></td>
-<td>Twitch</td>
+<td>
+<a href="https://twitch.tv/srisuban_gaming">
+  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/twitch-48.png" width="22"/>
+  Twitch
+</a>
+</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/itch.io-48.png" width="22"></td>
-<td>Itch.io</td>
+<td>
+<a href="https://srisubangames.itch.io">
+  <img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/itchio-48.png" width="22"/>
+  Itch.io
+</a>
+</td>
 </tr>
 
 </table>
