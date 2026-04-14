@@ -35,7 +35,7 @@ Computer Science Student
 </tr>
 
 <tr>
-<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/itchio-48.png" width="22"></td>
+<td><img src="https://github.com/srisuban5107/profile-assets/blob/main/icons/itch.io-48.png" width="22"></td>
 <td>Itch.io</td>
 </tr>
 
